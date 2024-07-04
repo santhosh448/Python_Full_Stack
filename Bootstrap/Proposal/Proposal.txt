@@ -1,0 +1,22 @@
+User Point of View
+--------------------
+Once logged into the library website or interface, as a user  can access to several functionalities that:
+Search for Books: The ability to search for books by title of the book in search bar.
+Browse Books: Seeing whether a book is available or not.
+Manage User Profile: Access to the user can Manage personal details, viewing borrowing history, checking any fines or holds on my account
+and logout functionality.
+View Borrowed Books: Being able to see which books I currently have checked out and their due dates.
+Renew Books:The option to renew books online saves time.
+Rend Book: Here's how a user can rent new books while adhering to a limit of borrowing up to 5 books.
+
+
+librarian Point of View
+-------------------------
+Once logged into the library website or interface, as a librarian can access to several functionalities that:
+Adding new Book :  This involves adding new books to the web site.
+Removing Book : This involves Removing the order books or damaged books.
+Adding fine : The librarian can add the fine, if the may user not returned in the mentioned date.
+Block User : The librarian can block user, if the user have more  then 10 late retuning of book.the librarian block the user.
+Track record : The librarian Track the record of how many books are available and how many books are not available.
+Browse Books: Seeing whether a book is available or not.
+Manage User Profile: Access to the user can Manage personal details and logout functionality.

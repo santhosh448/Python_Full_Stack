@@ -1,0 +1,18 @@
+From user Point of View
+--------------------------
+1.As a User Once login  into the library website or interface,I Want update my personal info and check my borrowing history and fines.
+retuning of book after Completing my reading.
+2.And Which books are available.
+3.And Also search for the book.Then pay the fee of book after barrow the book. 
+4.After Completing sessions i need to logout.
+
+From librarian Point of View
+-------------------------------
+1.As a librarian Once login to the library website or interface, I want to Manage my Profile/personal details.
+2.search for the book ,Which books are available and What type of books are available.
+3.Add the new books or Removing the book if the book damaged. 
+4.Display how many user are registered 
+5.And Add the fine if the User extended the retuning time.
+6.And also block the user if he exceeds the limit of 10 late returns of books.
+7.After Completing the sessions i need to logout.
+
